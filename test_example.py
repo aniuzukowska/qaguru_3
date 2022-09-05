@@ -1,5 +1,5 @@
 def test_0():
-    assert 2 < 10
+    assert 2 < 100
 
 def test_1():
     assert 3 >= 2
